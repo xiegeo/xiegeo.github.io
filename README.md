@@ -11,4 +11,5 @@
 Discover what projects people who stared a repo are involved with. 
 
 
-<aside>For more projects, see [profile](https://github.com/xiegeo)<aside>
+For more projects, see [profile](https://github.com/xiegeo)
+
